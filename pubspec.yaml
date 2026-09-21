@@ -22,6 +22,7 @@ dependencies:
   platform_linux: ^0.1.2
   yaru_window: ^0.2.2
 
+  material_ui: any
 dev_dependencies:
   animated_vector_gen: ^0.2.1
   build_runner: ^2.4.12
